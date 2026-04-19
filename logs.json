@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-04-19 20:11:27",
+    "message": "\ud83d\udd10  Initial baseline created",
+    "level": "success"
+  },
+  {
+    "timestamp": "2026-04-19 20:25:28",
+    "message": "\u26a0\ufe0f  File modified: readme.txt",
+    "level": "warning"
+  },
+  {
+    "timestamp": "2026-04-19 20:26:12",
+    "message": "\ud83d\udd04  Baseline re-initialized by user",
+    "level": "success"
+  },
+  {
+    "timestamp": "2026-04-19 23:02:12",
+    "message": "\u26a0\ufe0f  File modified: readme.txt",
+    "level": "warning"
+  },
+  {
+    "timestamp": "2026-04-19 23:04:15",
+    "message": "\ud83c\udd95  New file detected: New Text Document.txt",
+    "level": "info"
+  },
+  {
+    "timestamp": "2026-04-19 23:04:21",
+    "message": "\ud83c\udd95  New file detected: testnew.txt",
+    "level": "info"
+  },
+  {
+    "timestamp": "2026-04-19 23:04:36",
+    "message": "\u2705  File restored to secure: readme.txt",
+    "level": "success"
+  },
+  {
+    "timestamp": "2026-04-19 23:04:36",
+    "message": "\u2705  File restored to secure: testnew.txt",
+    "level": "success"
+  },
+  {
+    "timestamp": "2026-04-19 23:43:13",
+    "message": "\ud83c\udd95  New file detected: README.md",
+    "level": "info"
+  },
+  {
+    "timestamp": "2026-04-19 23:46:49",
+    "message": "\ud83c\udd95  New file detected: README.md",
+    "level": "info"
+  }
+]
