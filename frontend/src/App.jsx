@@ -7,7 +7,7 @@ import {
 } from 'recharts'
 import './App.css'
 
-const API = 'http://localhost:8001'
+const API = 'https://file-integrity-checker-v121.onrender.com'
 
 /* ── Icon helpers ───────────────────────────────────────── */
 const ShieldIcon = () => (
